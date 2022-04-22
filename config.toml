@@ -1,7 +1,7 @@
 baseURL = "https://donghyunkim.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
+title = "Dong Hyun Kiim"
 author = "Dong Hyun Kim"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
